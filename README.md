@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm AZMindroma, my name is Furkan. I'm really not a "special person" and ugh idek what to write lol
 <!--
 **AZMindroma/AZMindroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
