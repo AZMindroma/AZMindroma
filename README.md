@@ -1,6 +1,8 @@
 <div align="center">
 <h1>AZMindroma</h1>
 
+</div>
+
 ## What I use:
 
 ### Languages
