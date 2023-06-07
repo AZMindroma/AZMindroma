@@ -1,16 +1,23 @@
-### Hi there 👋
-I'm AZMindroma, my name is Furkan. I'm really not a "special person" and ugh idek what to write lol
-<!--
-**AZMindroma/AZMindroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h1>AZMindroma</h1>
 
-Here are some ideas to get you started:
+## What I use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- C#
+- (Java)
+  
+### Shells
+- Bash
+  
+### Tools/IDEs
+- Visual Studio
+- Visual Studio Code
+- (Git)  
+  
+### Databases
+- SQL
+  
+### Operating Systems
+- Windows
+- Linux (Debian/Ubuntu & Arch Linux)
