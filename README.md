@@ -1,6 +1,6 @@
 <div align="center">
 <h1>AZMindroma</h1>
-<strong>A 17 year old Turkish boy living in Germany, professional OS enthusiast</strong>
+<strong>A 17 year old Turkish boy living in Germany</strong>
 </div>
 
 ## What I use:
