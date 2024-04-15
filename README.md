@@ -23,4 +23,4 @@
   
 ### Operating Systems
 - Windows
-- Linux (Debian/Ubuntu & Arch Linux)
+- Linux (Debian/Ubuntu & Fedora)
