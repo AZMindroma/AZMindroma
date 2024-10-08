@@ -15,8 +15,8 @@
 ### Tools/IDEs
 - Visual Studio
 - Visual Studio Code
-- Unity (?)
-- (Git)  
+- Unity
+- Git
   
 ### Databases
 - SQL
